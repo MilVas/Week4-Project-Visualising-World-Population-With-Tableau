@@ -1,18 +1,11 @@
-# Week4_Tableau
-
-
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
-
-# Books Best Seller Analysis
+# World Population
 
 *Data Analytics, June 2020, Berlin*
 
 ## Content
-* [Project Description](https://github.com/MilVas/NSM_pancakes#project-description)
-* [Question & Hypothesis](https://github.com/MilVas/NSM_pancakes#question--hypothesis)
-* [Dataset](https://github.com/MilVas/NSM_pancakes#dataset)
-* [Workflow](https://github.com/MilVas/NSM_pancakes#workflow)
-* [Organization](https://github.com/MilVas/NSM_pancakes#organization)
+* [Project Description]
+* [Dataset]
+* [Visualisation with Tableau]
 
 ## Project Description
 
