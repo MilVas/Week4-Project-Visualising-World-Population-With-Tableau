@@ -2,10 +2,13 @@
 
 *Data Analytics, June 2020, Berlin*
 
+**Milena Vasić 
+
 ## Content
-* [Project Description]
-* [Dataset]
-* [Visualisation with Tableau]
+* [Project Description](#project-description) 
+* [Dataset](#dataset)
+* [Visualisation with Tableau](#visualisation-with-tableau)
+
 
 ## Project Description
 
