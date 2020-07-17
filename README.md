@@ -1,8 +1,8 @@
 # World Population
 
-*Data Analytics, June 2020, Berlin*
+**Data Analytics, June 2020, Berlin**
 
-**Milena Vasić 
+**Milena Vasić**
 
 ## Content
 * [Project Description](#project-description) 
